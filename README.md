@@ -1,8 +1,8 @@
-fetchapp-php-2.0
+FetchApp Pricing Updater
 ================
 
 
-A PHP library for version 2.0 of the FetchApp API
+A Simple PHP script for updating pricing across all products in FetchApp
 
 ## Getting Account Information
 
